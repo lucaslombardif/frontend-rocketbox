@@ -45,7 +45,7 @@ $ yarn install
 # Inicie a aplicação 
 $ yarn start
 ```
-Ou vá aqui [aqui](https://lucaslombardif.codes).
+Ou vá aqui [aqui](https://frontendrocketbox.herokuapp.com).
 
 [nodejs]: https://nodejs.org/en/
 [reactjs]: https://pt-br.reactjs.org/
