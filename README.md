@@ -56,6 +56,6 @@ Ou vá aqui [aqui](https://rocketbox.lucaslombardif.codes).
 
 ## Link do Backend: 
 
- - https://omnistack-six.herokuapp.com
+ - https://box.lucaslombardif.codes
  - https://github.com/lucaslombardif/backend-rocketbox
  
